@@ -1,4 +1,4 @@
 token:
     # {cipher} : 암호화되었다는 뜻
-    secret: "0e83a71bbbcb7f212daa519788da9e9101de9b27b1053cc4ceb0dfbdbb38a6bb092c03b4cd7e1795694f6d87511a10147d6b71231f2125d4bb9203be9bb44cfc"
+    secret: "{cipher}0e83a71bbbcb7f212daa519788da9e9101de9b27b1053cc4ceb0dfbdbb38a6bb092c03b4cd7e1795694f6d87511a10147d6b71231f2125d4bb9203be9bb44cfc"
     expiration: 600000
